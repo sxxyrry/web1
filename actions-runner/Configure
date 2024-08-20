@@ -1,0 +1,3 @@
+# Create the runner and start the configuration experience
+$ ./config.cmd --url https://github.com/sxxyrry/web1 --token BGOABM7LLUUAO2XILZIMRC3GYRPNQ# Run it!
+$ ./run.cmd
